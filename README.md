@@ -2,7 +2,7 @@
 linguagens:
   - Python
   - Django
-products:
+produtos:
   - Raspberry Pi
 descrição: programa para otmizar estacionamentos.
 ---
