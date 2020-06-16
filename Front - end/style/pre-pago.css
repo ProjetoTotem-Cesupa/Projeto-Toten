@@ -1,0 +1,136 @@
+.pre-pago{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+h1{
+    font-size: 68px;
+}
+h2{
+    font-size: 42px;
+}
+h3{
+    color: #ffffff;
+}
+label{
+    color: #18397a;
+    font-size: 16px;
+    text-align: left;
+}
+.pre-pago header{
+    display: flex;
+}
+.pre-pago header div{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.pre-pago header h1{
+    color: #ffffff;
+    margin: 15px auto 0px auto;
+}
+.pre-pago header a.home{
+    display: flex;
+    background: url(../img/casa.svg) no-repeat;
+    width: 75px;
+    height: 75px;
+    margin: 15px;
+}
+.pre-pago header a.voltar{
+    display: flex;
+    background: url(../img/arrow-pointing-to-left.svg) no-repeat;
+    width: 75px;
+    height: 75px;
+    margin: 15px;
+}
+.pre-pago header span{
+    width: 75px;
+    height: 75px;
+    margin: 15px;
+}
+.pre-pago .background{
+    background: url(../img/Fundo_User_pre.png) no-repeat;
+    background-position: right bottom;
+}
+.pre-pago main div h1,h2{
+    color: #18397a;
+    margin: 0 auto;
+}
+.pre-pago main .form-pre-pago .main-valor {
+    width: 100vh;
+    max-width: 250px ;
+    min-height: 25px;
+    max-height: 75px;
+    border-radius: 50px;
+    background-color: #d8dae2;
+    transition: 400ms;
+    color: #18397a;
+    font-weight: bold;
+    justify-content: center;
+    border: solid;
+    font-size: 16px;
+    margin: 10px;
+}
+.pre-pago main .form-pre-pago .main-valor:hover{
+    background-color: #b8bccc;
+}
+.pre-pago main .main .form-pre-pago{
+    display: flex;
+    flex-direction: column;
+}
+.pre-pago main .form-pre-pago input{
+    height: 30px;;
+}
+
+@media(max-width:500px){
+    h1{
+        font-size: 35px;
+    }
+    h2{
+        font-size: 25px;
+    }
+    .pre-pago header a.home{
+        display: flex;
+        background: url(../img/casa2.svg) no-repeat;
+        width: 30px;
+        height: 30px;
+        margin: 10px;
+    }
+    .pre-pago header span{
+        width: 30px;
+        height: 30px;
+        margin: 10px;
+    }
+    .pre-pago header a.voltar{
+        display: flex;
+        background: url(../img/arrow-pointing-to-left2.svg) no-repeat;
+        width: 30px;
+        height: 30px;
+        margin: 10px;
+    }
+}
+@media(max-width:900px){
+    .pre-pago main a.botao{
+        min-width: 120px;
+        max-width: 260px;
+        max-height: 50px;
+        font-size: 24px;
+    }
+    .pre-pago main .main-valor a{
+        min-width: 200px;
+        max-width: 210px;
+        min-height: 25px;
+        max-height: 75px;
+        font-size: 14px;
+    }
+    .pre-pago .background{
+        background-position-x: 95vw;
+        align-items: center;
+        text-align: center;   
+    }
+}
+@media (max-height: 550px){
+    .pre-pago .background{
+        background-position-y: 1px;
+    }
+}
