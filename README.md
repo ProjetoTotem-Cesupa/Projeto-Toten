@@ -10,7 +10,7 @@ bibliotecas:
 descrição:
   - programa para otmizar estacionamentos.
 ---
-<h2>Vistual Parking</h2>
+<h2>Virtual Parking</h2>
 O produto aprimora a chegada do motorista ao estacionamento assim como sua saida.<br>
 Ao chegar no local uma camera filma a placa do carro e o algoritimo transcreve video em imagem, ultilizando a biblioteca opencv<br>
 Em seguida a placa na imagem é transcrita em texto para ser armazenada em variavel.<br>
@@ -20,7 +20,7 @@ Os clientes cadastrados tem a opção de acionar a "carteira virtual", onde é p
 Não é cadastrado? esta sem tempo? sem problemas o sistema oferece a opção de acesso rapido onde é pedido seu numero e as horas<br>
 que planeja ficar.<br>
 Passou do tempo que você estipulou para você mesmo? sem bronca, isso é um sistema para controle do administrador.<br>
-Você ira pagar apenas o tempo que ficar ultilizando a vaga do estacionamento.<br>
+Você ira pagar apenas o tempo que ficar ultilizando a vaga do estacionamento.<br><br>
 Você é o administrador do sistema? O log é a sua ferramenta preferida, com ele você tera total controle sobre quem entra e sai do estacionamento.<br>
 Qualquer desaveça é nele que você encontra a resposta e melhor executa seu trabalho.<br>
 <br>
