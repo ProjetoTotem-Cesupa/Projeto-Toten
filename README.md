@@ -4,7 +4,6 @@ linguagens:
 produtos:
   - SQL
   - HTML
-  produtos:
-  - SQL
+  - ets
 descrição: programa para otmizar estacionamentos.
 ---
