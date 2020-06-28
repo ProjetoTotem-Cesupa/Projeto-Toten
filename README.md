@@ -12,8 +12,8 @@ descrição:
 ---
 <h2>Vistual Parking</h2>
 O produto aprimora a chegada do motorista ao estacionamento.<br>
-Ao chegar no local uma camera filma a placa do carro e um algoritimo transcreve o video em uma imagem.<br>
-Em seguida a placa na imagem é transcrita em texto para ser armazenada em uma variavel.<br>
+Ao chegar no local uma camera filma a placa do carro e o algoritimo transcreve video em imagem.<br>
+Em seguida a placa na imagem é transcrita em texto para ser armazenada em variavel.<br>
 Na captura de movimento foi ultilizada a biblioteca opencv.<br>
 <br>
 Proporcionando um sistema de login o usuario cadastrado tem a opção de realizar o pagamento em apenas alguns cliques.<br>
