@@ -1,15 +1,10 @@
----
 linguagens:
   - Python
 produtos:
   - SQL
-  - HTML
-descrição:programa para otmizar estacionamentos.
-linguagens:
+  - HTML:
   - Python
-produtos:
-  - SQL
-  - HTML
+bibliotecas:
+  - Flask
+  - OpenCV
 descrição:programa para otmizar estacionamentos.
-
----
