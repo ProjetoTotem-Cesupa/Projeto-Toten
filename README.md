@@ -14,10 +14,10 @@ Funcionalides:
   - Pagamentos
   - Captura de Video
   - Transcrição de Video em Imagem
+---
+---
 descrição:
-  - Programa criado para dinamizar a visita a estacionamentos privados.
-
-  
+  - Programa criado para dinamizar a visita a estacionamentos privados. 
 ---
 <h2>Virtual Parking</h2>
 <h3>Integrantes:<br>
