@@ -8,7 +8,7 @@ bibliotecas:
   - Flask
   - OpenCV
 descrição:
-  - programa para otmizar estacionamentos.
+  - Programa criado para dinamizar a visita a estacionamentos privados.
 ---
 <h2>Virtual Parking</h2>
 O produto aprimora a chegada do motorista ao estacionamento assim como sua saida.<br>
