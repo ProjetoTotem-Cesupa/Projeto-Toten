@@ -7,11 +7,16 @@ produtos:
 bibliotecas:
   - Flask
   - OpenCV
+Funcionalides:
+  - Registro
+  - Login
 descrição:
   - Programa criado para dinamizar a visita a estacionamentos privados.
+
+  
 ---
 <h2>Virtual Parking</h2>
-<h3>Integrantes:
+<h3>Integrantes:<br>
   Daniel Bittencourt<br>
   Luis Filipe Félix<br>
   Mychel Roumie<br>
