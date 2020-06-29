@@ -17,7 +17,10 @@ Funcionalides:
 ---
 ---
 descrição:
-  - Programa criado para dinamizar a visita a estacionamentos privados. 
+  - Programa criado para dinamizar a visita a estacionamentos privados.
+<h2>Principais Funcionalidade:</h2>
+  - Pagamentos
+  - Transcrição de Video em Imagem
 ---
 <h2>Virtual Parking</h2>
 O produto aprimora a chegada do motorista ao estacionamento assim como sua saida.<br>
