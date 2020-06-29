@@ -21,7 +21,7 @@ descrição:
 ---
 <h2>Virtual Parking</h2>
 <h3>Integrantes:<br>
-  Daniel Bittencourt<br>
+  Daniel Bitencourt<br>
   Luis Filipe Félix<br>
   Mychel Roumie<br>
   Viniciu Aguiar<br>
