@@ -18,10 +18,9 @@ Funcionalides:
 ---
 descrição:
   - Programa criado para dinamizar a visita a estacionamentos privados.
-<h2>Principais Funcionalidade:</h2>
-  - Pagamentos
-  - Transcrição de Video em Imagem
----
+<h2>Principais Funcionalidade:</h2><br>
+  - Pagamentos<br>
+  - Transcrição de Video em Imagem<br>
 <h2>Virtual Parking</h2>
 O produto aprimora a chegada do motorista ao estacionamento assim como sua saida.<br>
 Ao chegar no local uma camera filma a placa do carro e o algoritimo transcreve video em imagem, ultilizando a biblioteca opencv<br>
