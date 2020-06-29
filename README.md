@@ -17,9 +17,12 @@ Funcionalides:
 ---
 ---
 <h2>Principais Funcionalidade:</h2><br>
-  - Registro<br>
-  - Pagamentos<br>
-  - Captura de texto em video/imagem pela biblioteca Opencv/pytesseract<br>
+  <h4>- Registro de cadastro assim como login:<br></h4>
+  -Armazenamento de cadastro e login em banco de dados<br>
+ <h4> - Pagamentos pré-pagos ou via cartão na hora<br></h4>
+  - pagamento por meio de creditos associado a conta registrada<br>
+ <h4> - Captura de texto em video/imagem pela biblioteca Opencv/pytesseract<br></h4>
+  - captura da placa do carrono momento que ele entra no estacionamento para fortalecer a credibilidade e segurança<br>
 <h2>Virtual Parking</h2>
 O produto aprimora a chegada do motorista ao estacionamento assim como sua saida.<br>
 Ao chegar no local uma camera filma a placa do carro e o algoritimo transcreve video em imagem, ultilizando a biblioteca opencv<br>
