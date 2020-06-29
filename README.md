@@ -12,10 +12,10 @@ descrição:
 ---
 <h2>Virtual Parking</h2>
 <h1>Integrantes:
-  Daniel Bittencourt
-  Luis Filipe Félix
-  Mychel Roumie
-  Viniciu Aguiar
+  Daniel Bittencourt<br>
+  Luis Filipe Félix<br>
+  Mychel Roumie<br>
+  Viniciu Aguiar<br>
   </h1>
 
 O produto aprimora a chegada do motorista ao estacionamento assim como sua saida.<br>
