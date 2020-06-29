@@ -11,6 +11,13 @@ descrição:
   - Programa criado para dinamizar a visita a estacionamentos privados.
 ---
 <h2>Virtual Parking</h2>
+<h1>Integrantes:
+  Daniel Bittencourt
+  Luis Filipe Félix
+  Mychel Roumie
+  Viniciu Aguiar
+  </h1>
+
 O produto aprimora a chegada do motorista ao estacionamento assim como sua saida.<br>
 Ao chegar no local uma camera filma a placa do carro e o algoritimo transcreve video em imagem, ultilizando a biblioteca opencv<br>
 Em seguida a placa na imagem é transcrita em texto para ser armazenada em variavel.<br>
