@@ -10,6 +10,10 @@ bibliotecas:
 Funcionalides:
   - Registro
   - Login
+  - Adicionar Fundos
+  - Pagamentos
+  - Captura de Video
+  - Transcrição de Video em Imagem
 descrição:
   - Programa criado para dinamizar a visita a estacionamentos privados.
 
